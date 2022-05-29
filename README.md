@@ -15,8 +15,9 @@ https://github.com/JINNY-US/Present_funding
 
 20220524   
 : Firebase에서 데이터 로드 후 recyclerView에 적용   
-![KakaoTalk_20220524_181706314](https://user-images.githubusercontent.com/57963888/170858419-f1ef829b-70b4-4004-be58-a4669dff5338.jpg)
-![KakaoTalk_20220524_181706314_01](https://user-images.githubusercontent.com/57963888/170858422-a9d933bf-1770-4793-a7d5-7a0396786985.jpg)   
+![KakaoTalk_20220524_181706314](https://user-images.githubusercontent.com/57963888/170882418-0215f8a4-b9a7-42b1-9434-78be5c5dae13.jpg)
+![KakaoTalk_20220524_181706314_01](https://user-images.githubusercontent.com/57963888/170882410-5829eb4b-e6a2-400e-9a14-dbec3691cb47.jpg)    
 
 20220527   
 : recyclerView의 아이템 클릭 시, 아이템의 index에 맞는 데이터를 새로운 activirty에 넘겨줌   
+![KakaoTalk_20220527_204845438](https://user-images.githubusercontent.com/57963888/170882332-98ded2bf-e3f7-481d-b5c7-59301af7639f.jpg)   
