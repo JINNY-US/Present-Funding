@@ -18,3 +18,5 @@ https://github.com/JINNY-US/Present_funding
 ![KakaoTalk_20220524_181706314](https://user-images.githubusercontent.com/57963888/170858419-f1ef829b-70b4-4004-be58-a4669dff5338.jpg)
 ![KakaoTalk_20220524_181706314_01](https://user-images.githubusercontent.com/57963888/170858422-a9d933bf-1770-4793-a7d5-7a0396786985.jpg)   
 
+20220527   
+: recyclerView의 아이템 클릭 시, 아이템의 index에 맞는 데이터를 새로운 activirty에 넘겨줌   
