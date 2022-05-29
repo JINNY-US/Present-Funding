@@ -8,10 +8,12 @@
 
 ***
 
-Android Studio   
+Android Studio (JAVA)   
 
 - 개발 중인 프로젝트 링크   
 https://github.com/JINNY-US/Present_funding   
+
+***   
 
 20220524   
 : Firebase에서 데이터 로드 후 recyclerView에 적용   
