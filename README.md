@@ -23,3 +23,6 @@ https://github.com/JINNY-US/Present_funding
 20220527 (김경진)   
 : recyclerView의 아이템 클릭 시, 아이템의 index에 맞는 데이터를 새로운 activirty에 넘겨줌   
 ![KakaoTalk_20220527_204845438](https://user-images.githubusercontent.com/57963888/170882332-98ded2bf-e3f7-481d-b5c7-59301af7639f.jpg)   
+
+20220604 (김경진)   
+: main 최종 결정   
