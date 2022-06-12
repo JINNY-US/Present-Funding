@@ -27,5 +27,7 @@ https://github.com/JINNY-US/Present_funding
 20220604 (김경진)   
 : main 최종 결정   
 
+
+
 20220607 (홍수빈, 강혜진)   
 : 데이터셋 생성   
